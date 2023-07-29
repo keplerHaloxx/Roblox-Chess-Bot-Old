@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/xvhHaloxx/Roblox-Scripts/Chess-AI-Updated/src/script.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/keplerHaloxx/Roblox-Chess-Bot-Old/main/src/script.lua"))()
