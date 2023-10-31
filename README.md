@@ -1,1 +1,1 @@
-Changed repo and branch names so auto updater will not be working.
+Changed repo and branch names so auto updater will not be working (im not even updating this anymore).
